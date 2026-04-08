@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "WebSearch",
-      "WebFetch(domain:resources.anthropic.com)",
-      "WebFetch(domain:www.anthropic.com)"
-    ]
-  }
-}
